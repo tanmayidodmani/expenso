@@ -75,7 +75,7 @@ const App = () => {
   }, [ transactions ] );
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/expenso">
       <div className="app" data-theme={ theme }>
 <Header
   theme={theme}

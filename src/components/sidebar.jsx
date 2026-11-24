@@ -40,7 +40,6 @@ const Sidebar = () => {
 
       <div className="sidebar-bottom">
         <div className="upgrade-card">
-          <div className="upgrade-icon">✦</div>
           <h4>Manage your money</h4>
           <p>Make smarter financial decisions every day.</p>
         </div>
